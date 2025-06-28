@@ -34,15 +34,15 @@
   - Smart Reports: Visual sales trends, inventory turnover rates, and daily summaries.
 
 **Key Features of SIST App**
-✅ Inventory Management (Add, Update, Delete Products)
-✅ Barcode Scanning Support (via Camera)
-✅ Real-Time Sales Recording
-✅ Low Stock Alerts
-✅ Visual Analytics (Pie Charts, Line Graphs)
-✅ Export Sales Reports (PDF or CSV)
-✅ Push Notifications for Urgent Updates
-✅ Multi-User Access with Role-Based Permissions
-✅ Offline Functionality with Background Sync
+- ✅ Inventory Management (Add, Update, Delete Products)
+- ✅ Barcode Scanning Support (via Camera)
+- ✅ Real-Time Sales Recording
+- ✅ Low Stock Alerts
+- ✅ Visual Analytics (Pie Charts, Line Graphs)
+- ✅ Export Sales Reports (PDF or CSV)
+- ✅ Push Notifications for Urgent Updates
+- ✅ Multi-User Access with Role-Based Permissions
+- ✅ Offline Functionality with Background Sync
 
 **Use Case	                    Description**
 Quick Inventory Check	        Shop owner checks stock via smartphone
